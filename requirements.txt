@@ -2,3 +2,6 @@ numpy
 langchain_community
 wikipedia
 youtube_search
+dotenv
+langgraph
+langchain_google_genai
